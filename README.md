@@ -1,15 +1,12 @@
 # NOTE  
 This repository has been created to upload my final semester research on  
 **Hybrid Reinforcement Learning for QoS-Based Adaptive Routing in Hierarchical Software-Defined Networks**  
-using **SARSA** and **Q-learning** in **OMNeT++**.  
-
+using **SARSA and **Q-learning** in **OMNeT++**.<br>
 The core **C++** files used in **OMNeT++** as part of this research are uploaded here to demonstrate my **proficiency in C++**,  
-supporting the submission of the **C++ Proficiency Form** dated **01/04/2025**.  
+supporting the submission of the **C++ Proficiency Form** dated **01/04/2025**.<br>
 
 For a detailed understanding of the project, research papers, and algorithms, refer to **report.pdf**. 
 [📄 View Full Report](report.pdf)
-
-
 
 ---
 
